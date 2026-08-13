@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @pawangthb
-- 👀 I’m interested in software development ...
-- 🌱 I’m currently learning web development + DSA in java...
-- 💞️ I’m looking to collaborate on Amazon,Google,Facebook,Twitter and LinkedIn ...
-- 📫 How to reach me just follow my social handles..
+👋 Hi, I'm Pawan Kumar (@pawangthb)
+💻 Software Developer | Java | Web Development | DSA
 
-<!---
-pawangthb/pawangthb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Currently learning Web Development & DSA with Java
+🚀 Interested in Software Development & Open Source
+🤝 Open to collaboration, projects & opportunities
+🎯 Aspiring to become a strong Software Engineer
+🛠️ Tech
+Java JavaScript HTML CSS React DSA
+
+📫 Let's Connect
+LinkedIn • GitHub • Email
+
+Code. Learn. Build. Repeat. 🚀
