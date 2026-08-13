@@ -9,6 +9,6 @@
 Java JavaScript HTML CSS React DSA
 
 📫 Let's Connect
-LinkedIn • GitHub • Email
+• (https://github.com/pawangthb) • pg19062004@gmail.com
 
 Code. Learn. Build. Repeat. 🚀
