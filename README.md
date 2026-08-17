@@ -1,4 +1,4 @@
-👋 Hi, I'm Pawan Kumar (@pawangthb)
+👋 Hi, I'm Pawan Gupta (@pawangthb)
 💻 Software Developer | Java | Web Development | DSA
 
 🌱 Currently learning Web Development & DSA with Java
