@@ -5,7 +5,7 @@
 🚀 Interested in Software Development & Open Source
 🤝 Open to collaboration, projects & opportunities
 🎯 Aspiring to become a strong Software Engineer
-🛠️ Tech
+🛠️ Techs
 Java JavaScript HTML CSS React DSA
 
 📫 Let's Connect
