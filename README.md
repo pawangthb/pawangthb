@@ -1,7 +1,7 @@
 👋 Hi, I'm Pawan Gupta (@pawangthb)
 💻 Software Developer | Java | Web Development | DSA
 
-🌱 Currently learning Web Development & DSA with Java
+🌱 Currently learning Web Development & Dsa with Java
 🚀 Interested in Software Development & Open Source
 🤝 Open to collaboration, projects & opportunities
 🎯 Aspiring to become a strong Software Engineer
